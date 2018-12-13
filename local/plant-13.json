@@ -1,0 +1,93 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/13.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/0c9ph5",
+      "locale": "",
+      "description": "flower",
+      "score": 0.9920024275779724,
+      "confidence": 0,
+      "topicality": 0.9920024275779724,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.9585316777229309,
+      "confidence": 0,
+      "topicality": 0.9585316777229309,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0hzlg",
+      "locale": "",
+      "description": "dahlia",
+      "score": 0.9297250509262085,
+      "confidence": 0,
+      "topicality": 0.9297250509262085,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/04sjm",
+      "locale": "",
+      "description": "flowering plant",
+      "score": 0.9281083345413208,
+      "confidence": 0,
+      "topicality": 0.9281083345413208,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0l5r",
+      "locale": "",
+      "description": "daisy family",
+      "score": 0.7210474610328674,
+      "confidence": 0,
+      "topicality": 0.7210474610328674,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/016q19",
+      "locale": "",
+      "description": "petal",
+      "score": 0.7134324908256531,
+      "confidence": 0,
+      "topicality": 0.7134324908256531,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0jqb",
+      "locale": "",
+      "description": "annual plant",
+      "score": 0.6947140693664551,
+      "confidence": 0,
+      "topicality": 0.6947140693664551,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03r18y",
+      "locale": "",
+      "description": "peach",
+      "score": 0.5696998238563538,
+      "confidence": 0,
+      "topicality": 0.5696998238563538,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

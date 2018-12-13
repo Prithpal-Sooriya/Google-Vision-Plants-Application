@@ -1,0 +1,115 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/18.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/0c9ph5",
+      "locale": "",
+      "description": "flower",
+      "score": 0.9909342527389526,
+      "confidence": 0,
+      "topicality": 0.9909342527389526,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.9474738836288452,
+      "confidence": 0,
+      "topicality": 0.9474738836288452,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/04sjm",
+      "locale": "",
+      "description": "flowering plant",
+      "score": 0.9177233576774597,
+      "confidence": 0,
+      "topicality": 0.9177233576774597,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0hzlg",
+      "locale": "",
+      "description": "dahlia",
+      "score": 0.8283212780952454,
+      "confidence": 0,
+      "topicality": 0.8283212780952454,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0jqb",
+      "locale": "",
+      "description": "annual plant",
+      "score": 0.7131235003471375,
+      "confidence": 0,
+      "topicality": 0.7131235003471375,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0l5r",
+      "locale": "",
+      "description": "daisy family",
+      "score": 0.6842090487480164,
+      "confidence": 0,
+      "topicality": 0.6842090487480164,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0ds61d1",
+      "locale": "",
+      "description": "cut flowers",
+      "score": 0.6407706141471863,
+      "confidence": 0,
+      "topicality": 0.6407706141471863,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01krpv",
+      "locale": "",
+      "description": "pink family",
+      "score": 0.5978792905807495,
+      "confidence": 0,
+      "topicality": 0.5978792905807495,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/02hcw1",
+      "locale": "",
+      "description": "floristry",
+      "score": 0.5760799050331116,
+      "confidence": 0,
+      "topicality": 0.5760799050331116,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01rb6t",
+      "locale": "",
+      "description": "chrysanths",
+      "score": 0.5604493021965027,
+      "confidence": 0,
+      "topicality": 0.5604493021965027,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/16.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/0c9ph5",
+      "locale": "",
+      "description": "flower",
+      "score": 0.9794069528579712,
+      "confidence": 0,
+      "topicality": 0.9794069528579712,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.9678120017051697,
+      "confidence": 0,
+      "topicality": 0.9678120017051697,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03bmqb",
+      "locale": "",
+      "description": "flora",
+      "score": 0.9602266550064087,
+      "confidence": 0,
+      "topicality": 0.9602266550064087,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/09ggk",
+      "locale": "",
+      "description": "purple",
+      "score": 0.8969695568084717,
+      "confidence": 0,
+      "topicality": 0.8969695568084717,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/04sjm",
+      "locale": "",
+      "description": "flowering plant",
+      "score": 0.6667057871818542,
+      "confidence": 0,
+      "topicality": 0.6667057871818542,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01zyd",
+      "locale": "",
+      "description": "columbine",
+      "score": 0.6108423471450806,
+      "confidence": 0,
+      "topicality": 0.6108423471450806,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03h6l4",
+      "locale": "",
+      "description": "bellflower family",
+      "score": 0.6035777926445007,
+      "confidence": 0,
+      "topicality": 0.6035777926445007,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05xl0b",
+      "locale": "",
+      "description": "canada columbine",
+      "score": 0.5879030227661133,
+      "confidence": 0,
+      "topicality": 0.5879030227661133,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03f35r",
+      "locale": "",
+      "description": "wildflower",
+      "score": 0.5656397938728333,
+      "confidence": 0,
+      "topicality": 0.5656397938728333,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

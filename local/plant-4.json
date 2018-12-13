@@ -1,0 +1,115 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/4.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/09qck",
+      "locale": "",
+      "description": "banana",
+      "score": 0.959754228591919,
+      "confidence": 0,
+      "topicality": 0.959754228591919,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.9533059000968933,
+      "confidence": 0,
+      "topicality": 0.9533059000968933,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0g5pzh_",
+      "locale": "",
+      "description": "saba banana",
+      "score": 0.9233500957489014,
+      "confidence": 0,
+      "topicality": 0.9233500957489014,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/09t49",
+      "locale": "",
+      "description": "leaf",
+      "score": 0.9088592529296875,
+      "confidence": 0,
+      "topicality": 0.9088592529296875,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03bmqb",
+      "locale": "",
+      "description": "flora",
+      "score": 0.8993966579437256,
+      "confidence": 0,
+      "topicality": 0.8993966579437256,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01fnns",
+      "locale": "",
+      "description": "vegetation",
+      "score": 0.8939434289932251,
+      "confidence": 0,
+      "topicality": 0.8939434289932251,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/013xk6",
+      "locale": "",
+      "description": "banana family",
+      "score": 0.8352280855178833,
+      "confidence": 0,
+      "topicality": 0.8352280855178833,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0262mx0",
+      "locale": "",
+      "description": "banana leaf",
+      "score": 0.7821313142776489,
+      "confidence": 0,
+      "topicality": 0.7821313142776489,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/09qdd",
+      "locale": "",
+      "description": "cooking plantain",
+      "score": 0.7381408214569092,
+      "confidence": 0,
+      "topicality": 0.7381408214569092,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01ttd6",
+      "locale": "",
+      "description": "plant stem",
+      "score": 0.6892430186271667,
+      "confidence": 0,
+      "topicality": 0.6892430186271667,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

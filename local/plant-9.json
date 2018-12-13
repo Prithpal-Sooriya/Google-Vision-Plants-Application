@@ -1,0 +1,93 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/9.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.9801861047744751,
+      "confidence": 0,
+      "topicality": 0.9801861047744751,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0c9ph5",
+      "locale": "",
+      "description": "flower",
+      "score": 0.9532747864723206,
+      "confidence": 0,
+      "topicality": 0.9532747864723206,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03bmqb",
+      "locale": "",
+      "description": "flora",
+      "score": 0.9321102499961853,
+      "confidence": 0,
+      "topicality": 0.9321102499961853,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/04sjm",
+      "locale": "",
+      "description": "flowering plant",
+      "score": 0.8442023992538452,
+      "confidence": 0,
+      "topicality": 0.8442023992538452,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03j2zx",
+      "locale": "",
+      "description": "subshrub",
+      "score": 0.6256412863731384,
+      "confidence": 0,
+      "topicality": 0.6256412863731384,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03gq1",
+      "locale": "",
+      "description": "herb",
+      "score": 0.5533963441848755,
+      "confidence": 0,
+      "topicality": 0.5533963441848755,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03f35r",
+      "locale": "",
+      "description": "wildflower",
+      "score": 0.5140461921691895,
+      "confidence": 0,
+      "topicality": 0.5140461921691895,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01ttd6",
+      "locale": "",
+      "description": "plant stem",
+      "score": 0.5038215517997742,
+      "confidence": 0,
+      "topicality": 0.5038215517997742,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

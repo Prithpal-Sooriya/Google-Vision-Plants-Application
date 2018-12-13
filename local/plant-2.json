@@ -1,0 +1,82 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/2.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/0c9ph5",
+      "locale": "",
+      "description": "flower",
+      "score": 0.9608384370803833,
+      "confidence": 0,
+      "topicality": 0.9608384370803833,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/088fh",
+      "locale": "",
+      "description": "yellow",
+      "score": 0.9483039379119873,
+      "confidence": 0,
+      "topicality": 0.9483039379119873,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03bmqb",
+      "locale": "",
+      "description": "flora",
+      "score": 0.9182997941970825,
+      "confidence": 0,
+      "topicality": 0.9182997941970825,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.8512722849845886,
+      "confidence": 0,
+      "topicality": 0.8512722849845886,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03f35r",
+      "locale": "",
+      "description": "wildflower",
+      "score": 0.8358175158500671,
+      "confidence": 0,
+      "topicality": 0.8358175158500671,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/016q19",
+      "locale": "",
+      "description": "petal",
+      "score": 0.7031113505363464,
+      "confidence": 0,
+      "topicality": 0.7031113505363464,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01txr2",
+      "locale": "",
+      "description": "spring",
+      "score": 0.5786304473876953,
+      "confidence": 0,
+      "topicality": 0.5786304473876953,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

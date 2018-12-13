@@ -1,0 +1,115 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/3.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/01fnns",
+      "locale": "",
+      "description": "vegetation",
+      "score": 0.9216495752334595,
+      "confidence": 0,
+      "topicality": 0.9216495752334595,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.8898929953575134,
+      "confidence": 0,
+      "topicality": 0.8898929953575134,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/08t9c_",
+      "locale": "",
+      "description": "grass",
+      "score": 0.7810084819793701,
+      "confidence": 0,
+      "topicality": 0.7810084819793701,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01y24v",
+      "locale": "",
+      "description": "green algae",
+      "score": 0.6959003210067749,
+      "confidence": 0,
+      "topicality": 0.6959003210067749,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0184yy",
+      "locale": "",
+      "description": "moss",
+      "score": 0.6778544187545776,
+      "confidence": 0,
+      "topicality": 0.6778544187545776,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01tbcv",
+      "locale": "",
+      "description": "non vascular land plant",
+      "score": 0.6650583744049072,
+      "confidence": 0,
+      "topicality": 0.6650583744049072,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01cbzq",
+      "locale": "",
+      "description": "rock",
+      "score": 0.6391938328742981,
+      "confidence": 0,
+      "topicality": 0.6391938328742981,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0hlw",
+      "locale": "",
+      "description": "algae",
+      "score": 0.5464337468147278,
+      "confidence": 0,
+      "topicality": 0.5464337468147278,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/025s3q0",
+      "locale": "",
+      "description": "landscape",
+      "score": 0.536317765712738,
+      "confidence": 0,
+      "topicality": 0.536317765712738,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/018ssc",
+      "locale": "",
+      "description": "groundcover",
+      "score": 0.5322772264480591,
+      "confidence": 0,
+      "topicality": 0.5322772264480591,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

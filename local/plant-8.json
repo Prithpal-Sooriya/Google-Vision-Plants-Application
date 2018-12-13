@@ -1,0 +1,82 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/8.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.9841756224632263,
+      "confidence": 0,
+      "topicality": 0.9841756224632263,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/07j7r",
+      "locale": "",
+      "description": "tree",
+      "score": 0.7503360509872437,
+      "confidence": 0,
+      "topicality": 0.7503360509872437,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03fp41",
+      "locale": "",
+      "description": "houseplant",
+      "score": 0.6891599893569946,
+      "confidence": 0,
+      "topicality": 0.6891599893569946,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0fm3zh",
+      "locale": "",
+      "description": "flowerpot",
+      "score": 0.6603278517723083,
+      "confidence": 0,
+      "topicality": 0.6603278517723083,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0gqbt",
+      "locale": "",
+      "description": "shrub",
+      "score": 0.6239622831344604,
+      "confidence": 0,
+      "topicality": 0.6239622831344604,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03gq1",
+      "locale": "",
+      "description": "herb",
+      "score": 0.5933643579483032,
+      "confidence": 0,
+      "topicality": 0.5933643579483032,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0hlzc",
+      "locale": "",
+      "description": "evergreen",
+      "score": 0.5210815668106079,
+      "confidence": 0,
+      "topicality": 0.5210815668106079,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

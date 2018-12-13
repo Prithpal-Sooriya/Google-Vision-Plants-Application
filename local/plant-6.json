@@ -1,0 +1,115 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/6.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/02xwb",
+      "locale": "",
+      "description": "fruit",
+      "score": 0.89494788646698,
+      "confidence": 0,
+      "topicality": 0.89494788646698,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0f4s2w",
+      "locale": "",
+      "description": "vegetable",
+      "score": 0.8852226734161377,
+      "confidence": 0,
+      "topicality": 0.8852226734161377,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/02pmq73",
+      "locale": "",
+      "description": "winter squash",
+      "score": 0.8844215273857117,
+      "confidence": 0,
+      "topicality": 0.8844215273857117,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/036qh8",
+      "locale": "",
+      "description": "produce",
+      "score": 0.8596531748771667,
+      "confidence": 0,
+      "topicality": 0.8596531748771667,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01hxyd",
+      "locale": "",
+      "description": "local food",
+      "score": 0.8396572470664978,
+      "confidence": 0,
+      "topicality": 0.8396572470664978,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/012c4n",
+      "locale": "",
+      "description": "cucurbita",
+      "score": 0.8347967863082886,
+      "confidence": 0,
+      "topicality": 0.8347967863082886,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01wdp",
+      "locale": "",
+      "description": "cucumber gourd and melon family",
+      "score": 0.828520655632019,
+      "confidence": 0,
+      "topicality": 0.828520655632019,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/02wbm",
+      "locale": "",
+      "description": "food",
+      "score": 0.7601413130760193,
+      "confidence": 0,
+      "topicality": 0.7601413130760193,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/011jbn",
+      "locale": "",
+      "description": "gourd",
+      "score": 0.7062063813209534,
+      "confidence": 0,
+      "topicality": 0.7062063813209534,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0dv77",
+      "locale": "",
+      "description": "squash",
+      "score": 0.6174094080924988,
+      "confidence": 0,
+      "topicality": 0.6174094080924988,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

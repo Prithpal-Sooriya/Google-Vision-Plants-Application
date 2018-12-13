@@ -1,0 +1,115 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/17.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/0c9ph5",
+      "locale": "",
+      "description": "flower",
+      "score": 0.9898533821105957,
+      "confidence": 0,
+      "topicality": 0.9898533821105957,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/06m11",
+      "locale": "",
+      "description": "rose",
+      "score": 0.977114200592041,
+      "confidence": 0,
+      "topicality": 0.977114200592041,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/06dmh",
+      "locale": "",
+      "description": "rose family",
+      "score": 0.9642130732536316,
+      "confidence": 0,
+      "topicality": 0.9642130732536316,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01fklc",
+      "locale": "",
+      "description": "pink",
+      "score": 0.9588455557823181,
+      "confidence": 0,
+      "topicality": 0.9588455557823181,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.9574193954467773,
+      "confidence": 0,
+      "topicality": 0.9574193954467773,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/04sjm",
+      "locale": "",
+      "description": "flowering plant",
+      "score": 0.928626537322998,
+      "confidence": 0,
+      "topicality": 0.928626537322998,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0dlk0vw",
+      "locale": "",
+      "description": "floribunda",
+      "score": 0.9000590443611145,
+      "confidence": 0,
+      "topicality": 0.9000590443611145,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0dq6zp",
+      "locale": "",
+      "description": "rosa centifolia",
+      "score": 0.8774870038032532,
+      "confidence": 0,
+      "topicality": 0.8774870038032532,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0fpjlj9",
+      "locale": "",
+      "description": "garden roses",
+      "score": 0.8037053346633911,
+      "confidence": 0,
+      "topicality": 0.8037053346633911,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/06cf7",
+      "locale": "",
+      "description": "rose order",
+      "score": 0.7891773581504822,
+      "confidence": 0,
+      "topicality": 0.7891773581504822,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

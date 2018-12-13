@@ -1,0 +1,115 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/1.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/0c9ph5",
+      "locale": "",
+      "description": "flower",
+      "score": 0.9796295166015625,
+      "confidence": 0,
+      "topicality": 0.9796295166015625,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.9753165245056152,
+      "confidence": 0,
+      "topicality": 0.9753165245056152,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03bmqb",
+      "locale": "",
+      "description": "flora",
+      "score": 0.9249956607818604,
+      "confidence": 0,
+      "topicality": 0.9249956607818604,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/04sjm",
+      "locale": "",
+      "description": "flowering plant",
+      "score": 0.8634491562843323,
+      "confidence": 0,
+      "topicality": 0.8634491562843323,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/09ggk",
+      "locale": "",
+      "description": "purple",
+      "score": 0.8462191820144653,
+      "confidence": 0,
+      "topicality": 0.8462191820144653,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0frtt",
+      "locale": "",
+      "description": "geranium",
+      "score": 0.7332850694656372,
+      "confidence": 0,
+      "topicality": 0.7332850694656372,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01l6kn",
+      "locale": "",
+      "description": "geraniales",
+      "score": 0.7253127694129944,
+      "confidence": 0,
+      "topicality": 0.7253127694129944,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03f956",
+      "locale": "",
+      "description": "melastome family",
+      "score": 0.723365068435669,
+      "confidence": 0,
+      "topicality": 0.723365068435669,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01l6ls",
+      "locale": "",
+      "description": "geraniaceae",
+      "score": 0.6896301507949829,
+      "confidence": 0,
+      "topicality": 0.6896301507949829,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0jqb",
+      "locale": "",
+      "description": "annual plant",
+      "score": 0.5516392588615417,
+      "confidence": 0,
+      "topicality": 0.5516392588615417,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

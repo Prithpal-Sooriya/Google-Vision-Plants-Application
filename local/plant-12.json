@@ -1,0 +1,71 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/12.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/09t49",
+      "locale": "",
+      "description": "leaf",
+      "score": 0.9541288614273071,
+      "confidence": 0,
+      "topicality": 0.9541288614273071,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0134l",
+      "locale": "",
+      "description": "autumn",
+      "score": 0.8992469310760498,
+      "confidence": 0,
+      "topicality": 0.8992469310760498,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01rynr",
+      "locale": "",
+      "description": "maple leaf",
+      "score": 0.8753343820571899,
+      "confidence": 0,
+      "topicality": 0.8753343820571899,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0cffdh",
+      "locale": "",
+      "description": "maple tree",
+      "score": 0.7687342762947083,
+      "confidence": 0,
+      "topicality": 0.7687342762947083,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.7188999056816101,
+      "confidence": 0,
+      "topicality": 0.7188999056816101,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/07j7r",
+      "locale": "",
+      "description": "tree",
+      "score": 0.6660668253898621,
+      "confidence": 0,
+      "topicality": 0.6660668253898621,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

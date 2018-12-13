@@ -1,0 +1,115 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/5.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/08tlbj",
+      "locale": "",
+      "description": "natural foods",
+      "score": 0.9861413836479187,
+      "confidence": 0,
+      "topicality": 0.9861413836479187,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0f4s2w",
+      "locale": "",
+      "description": "vegetable",
+      "score": 0.9686313271522522,
+      "confidence": 0,
+      "topicality": 0.9686313271522522,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01hxyd",
+      "locale": "",
+      "description": "local food",
+      "score": 0.9603345394134521,
+      "confidence": 0,
+      "topicality": 0.9603345394134521,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/07j87",
+      "locale": "",
+      "description": "tomato",
+      "score": 0.9554542899131775,
+      "confidence": 0,
+      "topicality": 0.9554542899131775,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/02xwb",
+      "locale": "",
+      "description": "fruit",
+      "score": 0.9468556046485901,
+      "confidence": 0,
+      "topicality": 0.9468556046485901,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/036qh8",
+      "locale": "",
+      "description": "produce",
+      "score": 0.9246017932891846,
+      "confidence": 0,
+      "topicality": 0.9246017932891846,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0hfcz",
+      "locale": "",
+      "description": "potato and tomato genus",
+      "score": 0.9180401563644409,
+      "confidence": 0,
+      "topicality": 0.9180401563644409,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/025tg_m",
+      "locale": "",
+      "description": "bush tomato",
+      "score": 0.8505073189735413,
+      "confidence": 0,
+      "topicality": 0.8505073189735413,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/02wbm",
+      "locale": "",
+      "description": "food",
+      "score": 0.7581005096435547,
+      "confidence": 0,
+      "topicality": 0.7581005096435547,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/06rv4",
+      "locale": "",
+      "description": "nightshade family",
+      "score": 0.7424377202987671,
+      "confidence": 0,
+      "topicality": 0.7424377202987671,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/19.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/01fklc",
+      "locale": "",
+      "description": "pink",
+      "score": 0.9513130187988281,
+      "confidence": 0,
+      "topicality": 0.9513130187988281,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0ggjrhd",
+      "locale": "",
+      "description": "flower arranging",
+      "score": 0.9294873476028442,
+      "confidence": 0,
+      "topicality": 0.9294873476028442,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0c9ph5",
+      "locale": "",
+      "description": "flower",
+      "score": 0.9238796830177307,
+      "confidence": 0,
+      "topicality": 0.9238796830177307,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/02hcw1",
+      "locale": "",
+      "description": "floristry",
+      "score": 0.9024786353111267,
+      "confidence": 0,
+      "topicality": 0.9024786353111267,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01l00t",
+      "locale": "",
+      "description": "wreath",
+      "score": 0.8363575339317322,
+      "confidence": 0,
+      "topicality": 0.8363575339317322,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/02p6k8p",
+      "locale": "",
+      "description": "flower bouquet",
+      "score": 0.8292294144630432,
+      "confidence": 0,
+      "topicality": 0.8292294144630432,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/06m11",
+      "locale": "",
+      "description": "rose",
+      "score": 0.8254157304763794,
+      "confidence": 0,
+      "topicality": 0.8254157304763794,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0ds61d1",
+      "locale": "",
+      "description": "cut flowers",
+      "score": 0.780770480632782,
+      "confidence": 0,
+      "topicality": 0.780770480632782,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/06dmh",
+      "locale": "",
+      "description": "rose family",
+      "score": 0.7702167630195618,
+      "confidence": 0,
+      "topicality": 0.7702167630195618,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/06gjp9",
+      "locale": "",
+      "description": "floral design",
+      "score": 0.7414596080780029,
+      "confidence": 0,
+      "topicality": 0.7414596080780029,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

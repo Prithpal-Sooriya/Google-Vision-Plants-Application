@@ -1,0 +1,82 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/15.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/0c9ph5",
+      "locale": "",
+      "description": "flower",
+      "score": 0.9771811962127686,
+      "confidence": 0,
+      "topicality": 0.9771811962127686,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.964186429977417,
+      "confidence": 0,
+      "topicality": 0.964186429977417,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/04sjm",
+      "locale": "",
+      "description": "flowering plant",
+      "score": 0.7981263399124146,
+      "confidence": 0,
+      "topicality": 0.7981263399124146,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03bmqb",
+      "locale": "",
+      "description": "flora",
+      "score": 0.7940384745597839,
+      "confidence": 0,
+      "topicality": 0.7940384745597839,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0c2m_",
+      "locale": "",
+      "description": "begonia",
+      "score": 0.6743374466896057,
+      "confidence": 0,
+      "topicality": 0.6743374466896057,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01txr2",
+      "locale": "",
+      "description": "spring",
+      "score": 0.6480105519294739,
+      "confidence": 0,
+      "topicality": 0.6480105519294739,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/016q19",
+      "locale": "",
+      "description": "petal",
+      "score": 0.6237303018569946,
+      "confidence": 0,
+      "topicality": 0.6237303018569946,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

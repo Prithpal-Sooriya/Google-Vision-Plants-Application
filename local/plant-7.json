@@ -1,0 +1,82 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/7.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/05s2s",
+      "locale": "",
+      "description": "plant",
+      "score": 0.9744777679443359,
+      "confidence": 0,
+      "topicality": 0.9744777679443359,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03bmqb",
+      "locale": "",
+      "description": "flora",
+      "score": 0.9331933856010437,
+      "confidence": 0,
+      "topicality": 0.9331933856010437,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0c9ph5",
+      "locale": "",
+      "description": "flower",
+      "score": 0.9250819087028503,
+      "confidence": 0,
+      "topicality": 0.9250819087028503,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/04sjm",
+      "locale": "",
+      "description": "flowering plant",
+      "score": 0.7745967507362366,
+      "confidence": 0,
+      "topicality": 0.7745967507362366,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/08t9c_",
+      "locale": "",
+      "description": "grass",
+      "score": 0.6474037766456604,
+      "confidence": 0,
+      "topicality": 0.6474037766456604,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03j2zx",
+      "locale": "",
+      "description": "subshrub",
+      "score": 0.6281024217605591,
+      "confidence": 0,
+      "topicality": 0.6281024217605591,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/018ssc",
+      "locale": "",
+      "description": "groundcover",
+      "score": 0.5614246726036072,
+      "confidence": 0,
+      "topicality": 0.5614246726036072,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}

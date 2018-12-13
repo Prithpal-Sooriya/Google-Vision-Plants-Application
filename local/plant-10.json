@@ -1,0 +1,115 @@
+{
+  "imageUrl": "https://storage.googleapis.com/candide-developer-test-plants/10.jpg",
+  "labelAnnotations": [
+    {
+      "mid": "/m/08tlbj",
+      "locale": "",
+      "description": "natural foods",
+      "score": 0.9761788249015808,
+      "confidence": 0,
+      "topicality": 0.9761788249015808,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0f4s2w",
+      "locale": "",
+      "description": "vegetable",
+      "score": 0.9564532041549683,
+      "confidence": 0,
+      "topicality": 0.9564532041549683,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/01hxyd",
+      "locale": "",
+      "description": "local food",
+      "score": 0.9327950477600098,
+      "confidence": 0,
+      "topicality": 0.9327950477600098,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0cdk2",
+      "locale": "",
+      "description": "eggplant",
+      "score": 0.9202916622161865,
+      "confidence": 0,
+      "topicality": 0.9202916622161865,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0jtt9",
+      "locale": "",
+      "description": "chili pepper",
+      "score": 0.8348897099494934,
+      "confidence": 0,
+      "topicality": 0.8348897099494934,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0515qg",
+      "locale": "",
+      "description": "bell peppers and chili peppers",
+      "score": 0.8177765607833862,
+      "confidence": 0,
+      "topicality": 0.8177765607833862,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/061rtf",
+      "locale": "",
+      "description": "sujuk",
+      "score": 0.790771484375,
+      "confidence": 0,
+      "topicality": 0.790771484375,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/03d4p1",
+      "locale": "",
+      "description": "peperoncini",
+      "score": 0.7543294429779053,
+      "confidence": 0,
+      "topicality": 0.7543294429779053,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/04gvl56",
+      "locale": "",
+      "description": "piquillo pepper",
+      "score": 0.7398402690887451,
+      "confidence": 0,
+      "topicality": 0.7398402690887451,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    },
+    {
+      "mid": "/m/0mjyx",
+      "locale": "",
+      "description": "cayenne pepper",
+      "score": 0.7224353551864624,
+      "confidence": 0,
+      "topicality": 0.7224353551864624,
+      "boundingPoly": null,
+      "locations": [],
+      "properties": []
+    }
+  ]
+}
